@@ -1,1 +1,1 @@
-# COMP2430-example
+# COMP-2430-W2021
